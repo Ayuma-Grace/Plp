@@ -1,5 +1,4 @@
-﻿# my_list.py
- # Plp - Python List Practice
+
 
 This is a simple Python project for practicing list operations.
 
